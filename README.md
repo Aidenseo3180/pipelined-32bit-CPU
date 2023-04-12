@@ -1,6 +1,6 @@
 # pipelined-32bit-CPU  
 
-![image info](./download/diagram.JPG)
+![image info](./download/diagram.JPG)  
 Pipelined 32bit CPU using VHDL  
 Can be run in Vivado 2018.3  
 Must manually map out the block diagram to connect components  
